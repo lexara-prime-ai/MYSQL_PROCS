@@ -1,3 +1,4 @@
+```sql
 DELIMITER //
 
 USE world;
@@ -15,3 +16,5 @@ SELECT @cities;
 SELECT * FROM city;
 
 SELECT * FROM country;
+
+```
